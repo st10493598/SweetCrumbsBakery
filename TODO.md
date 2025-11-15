@@ -1,0 +1,4 @@
+- [x] Modify Pages/about.html to convert "Our Story", "Mission Statement", and "Vision Statement" into accordions using existing CSS classes.
+- [x] Update Js/about.js to add accordion toggle functionality.
+- [x] Test the accordions by opening the about page in a browser.
+- [x] Convert team members section in Pages/about.html to accordions.
